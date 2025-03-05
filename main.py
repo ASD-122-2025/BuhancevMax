@@ -1,4 +1,4 @@
-print(f'Hi, I`m BuhancevMax')
+print('Hi, I`m BuhancevMax')
 
 
 
